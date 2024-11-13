@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+}
+form{
+    background-color: white;
+    border-radius: 8px;
+    text-align: center;
+    width: 35vW;
+    margin-left:33%;
+    margin-right:33%;
+    margin-top: 18%;
+    padding-bottom: 15px;
+}
+
+form p{
+    margin-top: 1%;
+    padding-top: 0.5vW;
+    padding-bottom: 0.5vW;
+    padding-left: 1vW;
+    padding-right: 1vW;
+    background-color: aquamarine;
+    border-radius: 3px;
+    text-align: left;
+    margin-left:7%;
+    margin-right:7%;
+    font-size: large;
+     box-shadow: 0px 0px 3px;
+    border-color: black;
+}
+
+form input{
+    border-radius: 5px;
+    padding: 1%;
+    margin-right: 2%;
+    width: 75%;
+    margin-bottom: 5%;
+}
+form button{
+    border: none;
+    border-radius: 5px;
+    padding: 1%;
+    background-color: aqua;
+    color: black;
+}
+p button{
+    float: right; 
+    background-color: red;
+}
